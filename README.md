@@ -1,2 +1,1 @@
-# learning_git
-Learning git
+My First Github Repository
